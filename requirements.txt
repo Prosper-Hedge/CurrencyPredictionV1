@@ -1,0 +1,9 @@
+beautifulsoup4
+joblib
+pandas
+scikit_learn
+streamlit
+altair
+datetime
+pandas 
+numpy
